@@ -3,6 +3,21 @@ EAG Cleaner v2.0
 Windows için gelişmiş sistem temizleme ve yönetim aracı
 bu araçın yeni versiyonunda kullanıcı deneyimini en 
 üst düzeye çıkarttık.
+## 🖼️ Uygulama Ekran Görüntüleri
+
+### Ana Arayüz
+![Screenshot 1](https://github.com/EagleSoft461/EAG-Clean-OS/raw/main/Screenshots%201.png)
+
+### Başlangıç Programları
+![Screenshot 2](https://github.com/EagleSoft461/EAG-Clean-OS/raw/main/Screenshots%202.png)
+
+### Sistem Bilgisi Paneli
+![Screenshot 3](https://github.com/EagleSoft461/EAG-Clean-OS/raw/main/Screenshots%203.png)
+
+### Tema Seçimi ve Gelişmiş Arayüz
+![Screenshot 4](https://github.com/EagleSoft461/EAG-Clean-OS/raw/main/Screenshots%204.png)
+
+
 ## Özellikler
 
 - Geçici dosyaları temizleme  ✔
