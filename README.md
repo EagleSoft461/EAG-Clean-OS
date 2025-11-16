@@ -43,14 +43,15 @@ Güvenilir kaynaktan indirildiği sürece sorun olmaz.
 1. Bilgisayarınızda Python 3.8 veya üzeri yüklü olmalıdır.  
 2. Gerekli kütüphaneleri yüklemek için terminal veya komut istemcisinde aşağıdaki komutu çalıştırın:  
 
+
 ```bash
 pip install -r requirements.txt
-
-## ☕ Bana Destek Olmak İster misin?
-EAG Clean OS 2.0'ı geliştirirken çok zaman ve emek harcadım. Eğer projemi beğendiysen ve bana bir kahve ısmarlamak istersen:
-👉 [Buy Me a Coffee]coff.ee/Eaglesss
-Desteğin için çok teşekkür ederim💖
-
 ## İNDİRME BAĞLANTISI📎;
 https://drive.google.com/file/d/1UMbjgBFlvdCkSXV4C6QIc1Tg_KVPnf-y/view?usp=sharing 📎
- 
+```
+* ## ☕ Buy Me a Coffee / Bana Bir Kahve Ismarlayın
+If you enjoy using **EagSchoolSystem** and want to support my work, you can buy me a coffee! Your support helps me keep improving the app.  
+
+Eğer **EagSchoolSystem**’i kullanmayı seviyorsanız ve çalışmalarımı desteklemek isterseniz, bana bir kahve ısmarlayabilirsiniz! Desteğiniz uygulamanın gelişmesine yardımcı olur.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-FFDD00?style=flat-square)](https://buymeacoffee.com/Eaglesss)
