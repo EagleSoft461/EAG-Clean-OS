@@ -50,8 +50,8 @@ pip install -r requirements.txt
 https://drive.google.com/file/d/1UMbjgBFlvdCkSXV4C6QIc1Tg_KVPnf-y/view?usp=sharing 📎
 ```
 * ## ☕ Buy Me a Coffee / Bana Bir Kahve Ismarlayın
-If you enjoy using **EagSchoolSystem** and want to support my work, you can buy me a coffee! Your support helps me keep improving the app.  
+If you enjoy using **EagCleaner** and want to support my work, you can buy me a coffee! Your support helps me keep improving the app.  
 
-Eğer **EagSchoolSystem**’i kullanmayı seviyorsanız ve çalışmalarımı desteklemek isterseniz, bana bir kahve ısmarlayabilirsiniz! Desteğiniz uygulamanın gelişmesine yardımcı olur.
+Eğer **EagCleaner**’i kullanmayı seviyorsanız ve çalışmalarımı desteklemek isterseniz, bana bir kahve ısmarlayabilirsiniz! Desteğiniz uygulamanın gelişmesine yardımcı olur.
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-FFDD00?style=flat-square)](https://buymeacoffee.com/Eaglesss)
