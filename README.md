@@ -1,57 +1,68 @@
-EAG Cleaner v2.0
+# EAG Cleaner v2.0
 
-Windows için gelişmiş sistem temizleme ve yönetim aracı
-bu araçın yeni versiyonunda kullanıcı deneyimini en 
-üst düzeye çıkarttık.
-## 🖼️ Uygulama Ekran Görüntüleri
+**Advanced system cleaning and Windows management tool.**
 
-### Ana Arayüz
+In this new version, we focused on improving the user experience to the highest level.
+
+---
+
+## 🖼️ Application Screenshots
+
+### Main Interface
 ![Screenshot 1](https://github.com/EagleSoft461/EAG-Clean-OS/raw/main/Screenshots%201.png)
 
-### Sistem Bilgisi Paneli
+### System Information Panel
 ![Screenshot 2](https://github.com/EagleSoft461/EAG-Clean-OS/raw/main/Screenshots%202.png)
 
-### Yapayzeka Analizi
+### AI Analysis
 ![Screenshot 3](https://github.com/EagleSoft461/EAG-Clean-OS/raw/main/Screenshots%203.png)
 
-### Tema Seçimi ve Gelişmiş Arayüz
+### Theme Selection & Modern UI
 ![Screenshot 4](https://github.com/EagleSoft461/EAG-Clean-OS/raw/main/Screenshots%204.png)
 
+---
 
-## Özellikler
+## ✨ Features
 
-- Geçici dosyaları temizleme  ✔
-- Çöp kutusunu boşaltma 🗑️ 
-- Başlangıç programlarını görüntüleme ve kaldırma 📊 
-- CPU, RAM ve Disk kullanımını gerçek zamanlı gösterme 🖥️ 
-- Google Chrome ve Microsoft Edge tarayıcı önbelleğini temizleme  🌐
-- Karanlık ve açık tema seçenekleri  ✔
-- İşlem günlüklerini log dosyasına kaydetme 📄📝⚙️
-- Yapayzeka Analizi 🤖
-- Harici diske yedekleme💿
-- Modern görünüm🔲
-## Kurulum ve Çalıştırma📦
-EAG Cleaner v2.0.exe dosyasını Windows bilgisayarınızda çift tıklayarak çalıştırabilirsiniz.
+- Temporary files cleanup ✔  
+- Empty recycle bin 🗑️  
+- View and remove startup programs 📊  
+- Real-time CPU, RAM, and Disk usage monitoring 🖥️  
+- Clear browser cache for Google Chrome & Microsoft Edge 🌐  
+- Dark & Light theme support ✔  
+- Save operation logs into a log file 📄📝⚙️  
+- AI Analysis 🤖  
+- External drive backup 💿  
+- Modern UI 🔲  
 
-Kurulum gerektirmez, direkt kullanabilirsiniz.
+---
 
-EXE dosyasını indirirken virüs uyarısı alabilirsiniz. Bu, Windows Defender veya diğer antivirüs yazılımlarının EXE dosyasını inceleme şeklinden kaynaklanmaktadır bunları kapatınız.
+## 📦 Installation & Run
 
-Güvenilir kaynaktan indirildiği sürece sorun olmaz.
-### Python sürümü ile çalıştırmak için:
+You can run **EAG Cleaner v2.0.exe** by double-clicking it on your Windows computer.
 
-1. Bilgisayarınızda Python 3.8 veya üzeri yüklü olmalıdır.  
-2. Gerekli kütüphaneleri yüklemek için terminal veya komut istemcisinde aşağıdaki komutu çalıştırın:  
+No installation required — it’s portable.
 
+### ⚠️ Windows Defender / Antivirus Notice
+Some antivirus software may show a warning when downloading or running the `.exe` file.  
+This can happen with unsigned applications. If you downloaded it from the official link, it should be safe to use.
 
+---
+
+## 🐍 Run the Python Version
+
+1. Make sure **Python 3.8+** is installed  
+2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
 ```bash
 pip install -r requirements.txt
 ## İNDİRME BAĞLANTISI📎;
 https://drive.google.com/file/d/1UMbjgBFlvdCkSXV4C6QIc1Tg_KVPnf-y/view?usp=sharing 📎
 ```
-* ## ☕ Buy Me a Coffee / Bana Bir Kahve Ismarlayın
+* ## ☕ Buy Me a Coffee
 If you enjoy using **EagCleaner** and want to support my work, you can buy me a coffee! Your support helps me keep improving the app.  
-
-Eğer **EagCleaner**’i kullanmayı seviyorsanız ve çalışmalarımı desteklemek isterseniz, bana bir kahve ısmarlayabilirsiniz! Desteğiniz uygulamanın gelişmesine yardımcı olur.
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-FFDD00?style=flat-square)](https://buymeacoffee.com/Eaglesss)
